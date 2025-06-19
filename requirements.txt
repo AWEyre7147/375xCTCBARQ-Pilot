@@ -1,1 +1,10 @@
-
+notebook
+voila
+re
+pandas
+numpy
+matplotlib
+plotly
+fancyimpute
+scikit-learn
+ppca

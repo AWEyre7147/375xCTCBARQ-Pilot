@@ -7,3 +7,4 @@ scikit-learn
 ppca
 notebook
 voila
+openpyxl
